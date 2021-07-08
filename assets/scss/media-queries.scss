@@ -1,0 +1,21 @@
+@media (max-width: 500px) {
+	body {
+		font-size: 1.2rem;
+	}
+
+	main {
+		padding: 1rem;
+	}
+
+	h2 {
+		font-size: 1.6rem;
+	}
+
+	.cards-wrapper {
+		grid-template-columns: 1fr;
+	}
+
+	.card img {
+		height: 30vh;
+	}
+}
