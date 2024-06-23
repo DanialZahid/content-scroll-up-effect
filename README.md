@@ -1,12 +1,12 @@
-# Image Cards With Content Scroll Up
+# Content Scroll Up Effect
 
 ## Description
 
 Responsive image cards with content scroll up on hover.
 
-- [On my website](https://content-scroll-up.iamdanial.com/)
-- [On GitHub](https://github.com/DanialZahid/Image-Cards-With-Content-Scroll-Up/)
-- [On CodePen](https://codepen.io/danialzahid/pen/GRmKEqx/)
+- [View on Vercel](https://content-scroll-up-effect.vercel.app/)
+- [View on GitHub](https://github.com/DanialZahid/content-scroll-up-effect)
+- [View on CodePen](https://codepen.io/danialzahid/pen/GRmKEqx/)
 
 ## License
 
